@@ -1,4 +1,4 @@
-# What I've learned doing this project
+# What I've learned while doing this project
 
 ## 1. Box-sizing
 
